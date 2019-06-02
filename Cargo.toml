@@ -1,0 +1,9 @@
+[package]
+name = "rust-bouncing-cube"
+version = "0.1.0"
+authors = ["Adam Richardson <ajrich01@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.32"
+specs = "0.14"
